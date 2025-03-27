@@ -16,3 +16,6 @@ Lab 6: https://github.com/drfuzzi/INF2009_MQTT
 Lab 7: https://github.com/drfuzzi/INF2009_AWSIoTCore
 
 Lab 8: https://github.com/drfuzzi/INF2009_EdgeImpulse
+
+
+https://chatgpt.com/
